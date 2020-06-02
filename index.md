@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Artemis Munoz
 
-I'm glad you are here. I plan to talk about ...
+artist. creative. activist
