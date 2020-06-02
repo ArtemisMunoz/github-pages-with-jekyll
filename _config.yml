@@ -1,9 +1,9 @@
+theme: minima
 title: Artemis Munoz
 author: Artemis Munoz
 email: art@artemismunoz.com
 description: > # this means to ignore newlines until "baseurl:"
   Artemis is a creative and activist living and working on Wurundjeri land.
-theme: minima
 
 # social links
 twitter_username: artemismunoz # DO NOT include the @ character, or else the build will fail!
